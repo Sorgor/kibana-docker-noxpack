@@ -1,5 +1,5 @@
 # kibana-docker-noxpack
 
-Pulls kibana docker image and removes x-pack from it
+Dockerfile for building kibana image with x-pack feature removed
 
 Build available at https://hub.docker.com/r/sorgor/kibana-docker-noxpack/
